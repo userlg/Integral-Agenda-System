@@ -1,0 +1,12 @@
+1. Crear base de datos.
+2. Agregarla al archivo .env.
+3. Abrir consola y ejecutar composer install y npm install o yarn install.
+4. Ejecutar migraciones y seeders con php artisan migrate:fresh --seed.
+5. Montar servidor local con php artisan serve.
+6. Hacer build del proyecto con npm run watch o yarn run watch.
+
+
+
+
+
+Es necesario php 7.2.* y node v12.
